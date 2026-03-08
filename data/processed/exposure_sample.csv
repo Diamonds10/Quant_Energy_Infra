@@ -1,0 +1,20 @@
+Asset_ID,Name,Type,State_Region,Capacity,nearest_event_dist_m,events_within_10km
+R-DNGT,Dangote Refinery (Ibeju-Lekki),Refinery/Integrated Complex,Lagos,650000.0,10997.513250121357,1
+F-DNGT,Dangote Fertiliser Plant (Ibeju-Lekki),Fertiliser/Ammonia,Lagos,2800000.0,47825.399154453145,1
+R-PHRC,Port Harcourt Refining Complex (PHRC),Refinery,Rivers,210000.0,6099.803788347988,5
+R-WAR,Warri Refinery & Petrochemicals (WRPC),Refinery,Delta,125000.0,9008.889321923176,2
+R-KAD,Kaduna Refinery & Petrochemical Company (KRPC),Refinery,Kaduna,110000.0,13767.369374757001,1
+T-BON,Bonny Island Terminal (NLNG area),Export Terminal / LNG hub,Rivers,,3983.6928137104665,4
+T-FORC,Forcados Terminal,Export Terminal,Delta,,18911.658670969442,1
+T-ESCR,Escravos Terminal / Escravos Gas Plant,Export Terminal / Gas Plant,Delta,,13730.20413312708,1
+P-OBEN,Obiafu-Obrikom-Oben (OB3) node,Pipeline Node (gas),Delta/Edo,,14186.310782104272,1
+P-ESCR_GP,Escravos Gas Plant (EGP / EGTL),Gas Processing Plant,Delta,,13730.20413312708,1
+P-BON_PSP,Nembe / Nembe Creek trunk node (NCTL region),Pipeline Node (crude),Rivers,150000.0,5112.834679063512,7
+P-TNP_HEAD,Trans-Niger Pipeline (TNP) node / Rumuekpe area,Pipeline Node (crude),Rivers,180000.0,,1
+S-PRM_PS,Major Pumping / Tank Farm (e.g.,Bonny/Forcados pumping stations),,7.2373,,1
+PL-NCTL,Nembe Creek Trunk Line (approx center),Pipeline (oil),Rivers,150000.0,5112.834679063512,7
+PL-ELPS,Escravos–Lagos Pipeline System (ELPS center),Pipeline (gas),Delta/Lagos,800.0,13730.20413312708,1
+PL-TNP,Trans-Niger Pipeline (TNP center),Pipeline (oil),Delta/Rivers,180000.0,,1
+PL-OB3,Obiafu-Obrikom-Oben (OB3 pipeline),Pipeline (gas),Delta/Edo,,14186.310782104272,1
+PL-FORC_EQ,Forcados export corridor (terminal link),Pipeline (oil),Delta,,18911.658670969442,1
+PL-BONNY_EXPORT,Bonny export pipeline network,Pipeline (oil/gas),Rivers,,3983.6928137104665,4
